@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Item = styled.li`
-  min-width: 300px;
+  min-width: 280px;
   display: flex;
   gap: 10px;
   font-family: 'Segoe UI';

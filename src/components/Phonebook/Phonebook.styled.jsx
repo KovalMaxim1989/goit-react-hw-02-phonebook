@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Form = styled.form`
   padding: 15px 10px;
-  min-width: 300px;
+  min-width: 250px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -12,7 +12,6 @@ export const Form = styled.form`
   font-size: 18px;
   border: 4px solid red;
   border-radius: 12px;
-  
 `;
 
 export const FormLabel = styled.label`
@@ -37,7 +36,6 @@ export const Input = styled.input`
 `;
 
 export const Button = styled.button`
- 
   padding: 5px;
   width: 200px;
   border: 2px solid red;
